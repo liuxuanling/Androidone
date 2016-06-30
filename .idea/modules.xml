@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SelfView.iml" filepath="$PROJECT_DIR$/SelfView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hehe2/hehe2.iml" filepath="$PROJECT_DIR$/hehe2/hehe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/items/items.iml" filepath="$PROJECT_DIR$/items/items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjsonjx/myjsonjx.iml" filepath="$PROJECT_DIR$/myjsonjx/myjsonjx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite2/sqlite2.iml" filepath="$PROJECT_DIR$/sqlite2/sqlite2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqliteo3/sqliteo3.iml" filepath="$PROJECT_DIR$/sqliteo3/sqliteo3.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':items', ':hehe2', ':myjsonjx', ':sqlite2', ':sqliteo3'

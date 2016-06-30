@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="myview_attres">
+        <attr name="txt" format="string|reference">
+
+        </attr>
+            <attr name="image" format="string|reference"/>
+    </declare-styleable>
+
+</resources>
